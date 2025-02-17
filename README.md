@@ -1,3 +1,4 @@
 #file
 <br>
-moon is lookinf beautiful
+moon is looking beautiful.
+sunny day it is.
